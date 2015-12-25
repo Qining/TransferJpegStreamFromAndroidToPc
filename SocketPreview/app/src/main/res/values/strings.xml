@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SocketPreview</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="action_bar_video">Start/Resume</string>
+    <string name="action_bar_connect">Connect</string>
+    <string name="action_bar_setting">Frame Sizes</string>
+
+    <string name="ok_str">OK</string>
+    <string name="cancel_str">Cancel</string>
+
+    <string name="frame_size_setting">Frame Sizes</string>
+</resources>
